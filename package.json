@@ -1,0 +1,8 @@
+{
+  "name": "node-ci-example",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'No tests yet!' && exit 0"
+  },
+  "dependencies": {}
+}
